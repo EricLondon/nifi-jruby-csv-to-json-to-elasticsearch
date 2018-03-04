@@ -2,7 +2,7 @@
 <template encoding-version="1.2">
     <description></description>
     <groupId>547bda08-0161-1000-3384-232aaf293e18</groupId>
-    <name>20180304 csv to json to elasticsearch</name>
+    <name>csv to json to elasticsearch</name>
     <snippet>
         <connections>
             <id>8cfa3084-2a5d-3e47-0000-000000000000</id>
